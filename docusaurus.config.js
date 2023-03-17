@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Rambunction4330 Docs',
+  title: 'RambunctionDocs',
   tagline: 'what does a boolean mean',
   favicon: 'img/favicon.ico',
 
